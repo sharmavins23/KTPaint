@@ -20,6 +20,7 @@ abstract class BoundedShapes(
     stroke: Stroke?,
     var isFilled: Boolean
 ) : Shapes(startPoint!!, endPoint!!, paint!!, stroke!!) {
+
     /**
      * @return topLeftX: Top-left-most point's X value
      */
