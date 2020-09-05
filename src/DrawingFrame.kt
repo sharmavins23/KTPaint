@@ -10,7 +10,7 @@ import javax.swing.*
  *
  * @author sharmavins23
  */
-class DrawingFrame : JFrame("Java Paint") {
+class DrawingFrame : JFrame("Kotlin Paint") {
     // Top widget panel - contains two lines of widgets
     private val topPanel: JPanel
 
